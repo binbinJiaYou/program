@@ -1,3 +1,6 @@
 [submodule "bash"]
 	path = bash
 	url = git@github.com:binbinJiaYou/bash.git
+[submodule "design-pattern"]
+	path = design-pattern
+	url = git@github.com:binbinJiaYou/design-pattern.git 
